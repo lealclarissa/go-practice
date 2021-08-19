@@ -51,7 +51,7 @@ Acesse a pasta do projeto em que tiver interesse: cada um possui uma documentaç
 
 ## Agradecimentos:  
 
-Ao isaac pela oportunidade e a @GuilhermeCaruso - meu mentor nesse novo mundo Go - por toda paciência e ensinamentos. Também, claro, LGTM! 💙
+Ao isaac pela oportunidade e a @GuilhermeCaruso - meu mentor nesse novo mundo Go - por toda paciência e ensinamentos. Também, claro, LGTMatriculas! 💙   @ingridpitta, @Caio-Batista, @markzeras e @taciogt.
 
 ---
 
