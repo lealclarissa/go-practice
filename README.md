@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/golang-v1.16.7-blue">
     <img src="https://img.shields.io/github/repo-size/lealclarissa/go-practice?color=blue">
     <img src="https://img.shields.io/github/last-commit/lealclarissa/go-practice?color=blue">
-    <img src="https://img.shields.io/github/license/lealclarissa/go-practice?color=blue?logo=MIT">
+    <img alt="GitHub" src="https://img.shields.io/github/license/lealclarissa/go-practice?color=blue">
   </a>
 </p>
 
