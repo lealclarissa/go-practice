@@ -1,7 +1,5 @@
 <h1 align="center">Calculadora de Média </h1>  
 
->🌱  Em desenvolvimento  🔜 
-
 <h1 align="center">
   <img alt="Imagem de uma calculadora de cor branca mostrando o número zero no visor" title="Photo by Charles Deluvio on Unsplash" src="./public/calculator.jpg" />
 </h1>  
@@ -21,14 +19,13 @@ A motivação deste projeto é buscar reproduzir - em Golang - um dos primeiros 
 
 ## Funcionalidades:
 
-- [x] Calculadora de média aritmética  
-- [ ] Retornar o status de aprovação:  
-    - [ ] Aprovade  
-    - [ ] Reprovade  
-    - [ ] Em recuperação  
+- [x] Calcula média aritmética de 3 notas  
+- [x] Retorna o status de aprovação:  
+    - Aprovade  
+    - Reprovade  
+    - Em recuperação  
 
 ## Como usar:  
-(*WIP*)
 
 *1* - Para usar a calculadora você deve ter Golang instalado
 
@@ -40,7 +37,7 @@ A motivação deste projeto é buscar reproduzir - em Golang - um dos primeiros 
 git clone https://github.com/lealclarissa/go-practice.git
 ```
 
-*3* - Acesse a pasta */calculator*;  
+*3* - Acesse a pasta */calculator*  
 
 ```bash
 cd go-practice
