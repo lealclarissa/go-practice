@@ -35,8 +35,8 @@ Atualizarei este repositório conforme for avançando.
 
 ## Projetos:
 
+- [x] Imprimir "Hello, World!" no terminal;
 - [x] Calculadora de média de notas;
-- [ ] Jogo RPG;
 - [ ] 🤔 ...
 
 ## Como usar:
