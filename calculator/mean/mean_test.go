@@ -5,9 +5,7 @@ import "testing"
 func TestMean(t *testing.T) {
 	var expected float32 = 8
 
-	var valueA float32 = 10
-	var valueB float32 = 8
-	var valueC float32 = 6
+	var valueA, valueB, valueC float32 = 10, 8, 6
 
 	result := GetMean(valueA, valueB, valueC)
 
