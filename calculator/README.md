@@ -40,11 +40,8 @@ git clone https://github.com/lealclarissa/go-practice.git
 *3* - Acesse a pasta */calculator*  
 
 ```bash
-cd go-practice
+cd go-practice/calculator 
 ```   
-```bash
-cd calculator/
-```
 
 *4* - Rode o projeto com o seguinte comando:  
 
