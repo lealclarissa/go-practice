@@ -1,3 +1,3 @@
 module github.com/lealclarissa/go-practice/tree/main/calculator
 
-go 1.16
+go 1.18
